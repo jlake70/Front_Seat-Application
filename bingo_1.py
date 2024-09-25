@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 import random
 
 # Initial data setup
-children = ["Joshua", "Skylar", "Saige", "Lauryn"]
+children = ["Joshua", "Skylar", "Saige","Lauryn"]
 cycle_duration_days = 30
 shuffle_interval_days = 2
 
